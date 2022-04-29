@@ -5,6 +5,7 @@ Udonとかに依存してXlwnya/Miscの方に置けないファイルを置く�
 Assets/Xlwnya/MiscWorldに置いてるにゃ。
 
 ## Dependencies
+* Xlwnya/Misc https://github.com/xlwnya/Misc
 * UdonSharp https://github.com/MerlinVR/UdonSharp
 * YamlDotNet https://assetstore.unity.com/packages/tools/integration/yamldotnet-for-unity-36292
 
