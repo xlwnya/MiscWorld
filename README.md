@@ -10,7 +10,12 @@ Assets/Xlwnya/MiscWorldに置いてるにゃ。
 * YamlDotNet https://assetstore.unity.com/packages/tools/integration/yamldotnet-for-unity-36292
 
 ## Contents
-* TBD
+* Camera
+  * Camera～Activator.cs: カメラのDepth他を有効化するU#
+  * Capture.cs: カメラの画像を取得するU#
+* Test
+  * MaterialPropSetter.cs: U#でMaterialPropertyBlockを設定するテスト
+* MiscWorld.unity: テスト用Scene
 
 ## License
 とりあえずMIT
